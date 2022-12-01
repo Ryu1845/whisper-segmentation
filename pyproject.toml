@@ -10,6 +10,8 @@ python = ">=3.8.1,<4.0"
 ffmpeg-python = "^0.2.0"
 typed-argument-parser = "^1.7.2"
 pywhisper = "^1.0.6"
+numpy = "^1.23.5"
+torch = "^1.13.0"
 
 [tool.poetry.dev-dependencies]
 black = "^22.10.0"
